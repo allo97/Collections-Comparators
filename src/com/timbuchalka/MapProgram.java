@@ -31,12 +31,17 @@ public class MapProgram {
 
         System.out.println("========================================================");
 
-        for(String key: languages.keySet()) {
-            System.out.println(key + " : " + languages.get(key));
+        languages.remove("Lisp");
+        if(languages.remove("Algo,", "a family of algorythic languages")) {
+            System.out.println("Algol removed");
+        } else {
+            System.out.println("Algol not remoed, key/value pair not found");
         }
 
 
-
+        for(String key: languages.keySet()) {
+            System.out.println(key + " : " + languages.get(key));
+        }
 
     }
 }
