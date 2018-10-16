@@ -32,7 +32,8 @@ public class Main {
         List<Theatre.Seat> priceSeats = new ArrayList<>(theatre.getSeats());
         priceSeats.add(theatre.new Seat("B00",13.00));
         priceSeats.add(theatre.new Seat("A00",13.00));
-        Collections.sort(priceSeats, Theatre.PRICE_ORDER);
+        Collections.sort(priceSeats, Theatre.PRICE_ORDER);  //sort by the price
+        printList(priceSeats);
     }
 
 
