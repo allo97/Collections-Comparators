@@ -14,7 +14,7 @@ public class MapProgram {
             System.out.println("Java added successfully");
         }
 
-        languages.put("Python", "an interpreted , object - oritnted, high-level programming language with dynamic semantics");
+        languages.put("Python", "an interpreted , object - orietntted, high-level programming language with dynamic semantics");
         System.out.println(languages.put("Algol", "an algorythmic language"));
         System.out.println(languages.put("Lisp","Therein lies madness"));
 
