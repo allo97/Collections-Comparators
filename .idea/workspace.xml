@@ -1,8 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c63cccc9-ce5c-4697-afc3-5a380bfadc6d" name="Default" comment="">
+    <list default="true" id="c63cccc9-ce5c-4697-afc3-5a380bfadc6d" name="Default" comment="added remove function">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Collections/com/timbuchalka/MapProgram.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Collections/com/timbuchalka/MapProgram.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/com/timbuchalka/MapProgram.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/timbuchalka/MapProgram.java" afterDir="false" />
     </list>
     <ignored path="Collections.iws" />
@@ -30,12 +31,14 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="java" value="2435" />
+          <entry key="java" value="2863" />
+          <entry key="txt" value="42" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="2435" />
+          <entry key="JAVA" value="2863" />
+          <entry key="PLAIN_TEXT" value="42" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
@@ -86,8 +89,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/com/timbuchalka/MapProgram.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="425">
-              <caret line="25" column="43" lean-forward="true" selection-start-line="25" selection-start-column="43" selection-end-line="25" selection-end-column="43" />
+            <state relative-caret-position="602">
+              <caret line="44" column="56" selection-start-line="44" selection-start-column="56" selection-end-line="44" selection-end-column="56" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -122,7 +125,7 @@
   <component name="JsGulpfileManager">
     <detection-done>true</detection-done>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="-8" />
     <option name="y" value="-8" />
     <option name="width" value="1936" />
@@ -165,7 +168,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1539677559938" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1539679258142" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.0" />
@@ -763,6 +766,14 @@
       <workItem from="1449102561145" duration="2596000" />
       <workItem from="1449182654367" duration="1528000" />
     </task>
+    <task id="LOCAL-00001" summary="added remove function">
+      <created>1539678084058</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1539678084058</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
@@ -797,13 +808,17 @@
       <window_info anchor="right" id="Palette" order="4" />
       <window_info anchor="right" id="Database" order="5" />
       <window_info anchor="right" id="Maven Projects" order="6" />
-      <window_info anchor="right" id="Run" order="7" weight="0.26492536" />
+      <window_info active="true" anchor="right" id="Run" order="7" visible="true" weight="0.26439232" />
       <window_info anchor="right" id="Theme Preview" order="8" />
       <window_info anchor="right" id="Capture Analysis" order="9" />
     </layout>
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="added remove function" />
+    <option name="LAST_COMMIT_MESSAGE" value="added remove function" />
   </component>
   <component name="antWorkspaceConfiguration">
     <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
@@ -843,8 +858,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/timbuchalka/MapProgram.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="425">
-          <caret line="25" column="43" lean-forward="true" selection-start-line="25" selection-start-column="43" selection-end-line="25" selection-end-column="43" />
+        <state relative-caret-position="602">
+          <caret line="44" column="56" selection-start-line="44" selection-start-column="56" selection-end-line="44" selection-end-column="56" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
